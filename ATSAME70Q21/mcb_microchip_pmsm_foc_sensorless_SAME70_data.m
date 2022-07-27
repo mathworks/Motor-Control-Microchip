@@ -81,8 +81,6 @@ PU_System = mcb_SetPUSystem(pmsm,inverter);
 
 %% SMO parameters
 Vd_Ref_openLoop_PU = 0.1; % Use 0.12 for Dyno setup and 0.1 for others
-% smo = mcb_SetSMOParameters;
-% smo.CurrentObsGain = 0.5;
 smo = mcb_ComputeSMOParameters(pmsm,Ts,PU_System);
 
 %% Controller design // Get ballpark values!
