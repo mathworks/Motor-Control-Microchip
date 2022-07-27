@@ -24,7 +24,7 @@ Requires MATLAB® release R2021b or newer
 ### 3rd Party Products
 
 - [MPLAB® X IDE and IPE (v5.45 or later)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
-- [MPLAB® XC16 compiler (v1.6 or later)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers)
+- [MPLAB® XC compilers (v1.6 or later)](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers)
 - [MPLAB® Device Blocks for Simulink Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/71892-mplab-device-blocks-for-simulink-dspic-pic32-and-sam-mcu)
 
 ## Getting Started 
