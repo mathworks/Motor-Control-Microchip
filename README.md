@@ -33,11 +33,10 @@ Requires MATLAB® release R2021b or newer
 
 ## Getting Started 
 For detailed instructions to use these demos, see the enclosed pdf documents.
-
+A Mathworks-Microchip joint webinar is available [here.](https://www.mathworks.com/videos/motor-control-with-embedded-coder-for-microchip-mcus-1488570451176.html)
 
 ## License
 The license is available in the *License.txt* file in this GitHub repository.
-
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
