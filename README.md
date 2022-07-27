@@ -1,4 +1,4 @@
-# Demo for Motor Control Deployment on Microchip Controllers
+# Demos for Motor Control Deployment on Microchip Controllers
 Field-Oriented Control (FOC) of Permanent Magnet Synchronous Motor (PMSM) Using Microchip's dsPICDEM™ MCLV-2 Development Board 
 
 These examples implement the field-oriented control (FOC) technique to control the speed of a three-phase PMSM. The examples use flux observer and sliding mode observer position estimation techniques.
