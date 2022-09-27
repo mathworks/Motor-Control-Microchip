@@ -15,7 +15,7 @@ The board supports usage of internal on-chip op-amps found on certain dsPIC® an
 2. For instructions to use these demos, see the enclosed pdf documents.
 
 
-### [MathWorks®  Products](http://www.mathworks.com)
+### [MathWorks®  Products](https://www.mathworks.com)
 
 Requires MATLAB® release R2021b or newer
 - [Simulink®](https://www.mathworks.com/products/simulink.html)
