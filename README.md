@@ -36,6 +36,8 @@ For detailed instructions to use these demos, see the enclosed pdf documents.
 
 A Mathworks-Microchip joint webinar is available [here.](https://www.mathworks.com/videos/motor-control-with-embedded-coder-for-microchip-mcus-1488570451176.html)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](<link>)
+
 ## License
 The license is available in the *License.txt* file in this GitHub repository.
 
