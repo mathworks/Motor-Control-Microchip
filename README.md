@@ -1,7 +1,7 @@
 # Demos for Motor Control Deployment on Microchip Controllers
 Field-Oriented Control (FOC) of Permanent Magnet Synchronous Motor (PMSM) Using Microchip's dsPICDEM™ MCLV-2 Development Board 
 
-These examples demonstrate parameter estimation, PI controller tuning FOC Autotuner, and field-oriented control (FOC) three-phase PMSM. The examples use the quadrature encoder for position sensing during the parameter estimation and FOC Autotuner. FOC uses flux observer and sliding mode observer position estimation techniques.
+These examples demonstrate parameter estimation, tuning of PI controller gains using the FOC Autotuner, and field-oriented control (FOC) of three-phase PMSM. The examples use the quadrature encoder for position sensing during the parameter estimation and FOC Autotuner. FOC uses flux observer and sliding mode observer position estimation techniques.
 
 The motor control algorithm runs on the Microchip dsPICDEM™ MCLV-2 Development Board. This board provides a cost-effective solution for developing and evaluating 3-phase sensor-based or 3-phase sensorless Brushless DC (BLDC) and PMSM control applications. It supports Microchip’s 100-pin motor control Plug-In-Modules (PIMs) with these controllers:
 - dsPIC33C, dsPIC33E and dsPIC33F Digital Signal Controllers (DSCs)
